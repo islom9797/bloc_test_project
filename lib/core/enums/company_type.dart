@@ -1,0 +1,5 @@
+enum CompanyType {
+  SELF_EMPLOYED,
+  LEGAL_ENTITY,
+  COORPORATION,
+}

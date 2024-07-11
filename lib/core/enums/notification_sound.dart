@@ -1,0 +1,4 @@
+enum NotificationSound {
+  DOG,
+  CAT
+}
